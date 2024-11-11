@@ -1,5 +1,6 @@
-Read Me.
 
-Project for Jupyterlab
+This project analyzes avocado price data to produce visualizations of total volume, bag sizes, and revenue over time. The main outputs include:
 
-It's designed to sort data and create graphs to illustrate patterns.
+Estimated Revenue: Calculated by multiplying Total Volume and Average Price.
+Total Volume statistics by year.
+Summed bag sizes by avocado type.
